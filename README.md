@@ -2,3 +2,4 @@
 
 ## Features
 - Learning GitHub workflows
+- Command line mastery
